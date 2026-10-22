@@ -4,13 +4,19 @@
 
 ## 使用方法
 
-在支持 M3U 的播放器（如 IPTV、VLC、PotPlayer、Tivimate、Kodi 等）中订阅本仓库的 raw 地址即可：
+在支持 M3U 的播放器（IPTV、VLC、PotPlayer、Tivimate、Kodi 等）中订阅本仓库的 raw 地址即可：
 
+**Gitee（国内推荐，速度快）：**
+```
+https://gitee.com/beckjimmy/iptv/raw/main/playlist.m3u
+```
+
+**GitHub（备用）：**
 ```
 https://raw.githubusercontent.com/beckjimmy1005-beep/iptv/main/playlist.m3u
 ```
 
-> 若你的默认分支为 `master`，请将链接中的 `main` 改为 `master`。
+> 若默认分支为 `master`，请将链接中的 `main` 改为 `master`。
 
 ## 内容说明
 
