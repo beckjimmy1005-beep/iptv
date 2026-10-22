@@ -6,16 +6,17 @@
 
 在支持 M3U 的播放器（IPTV、VLC、PotPlayer、Tivimate、Kodi 等）中订阅本仓库的 raw 地址即可：
 
-**Gitee（国内推荐，速度快）：**
-```
-https://gitee.com/beckjimmy/iptv/raw/main/playlist.m3u
-```
-
-**GitHub（备用）：**
+**GitHub（首选，实测可用）：**
 ```
 https://raw.githubusercontent.com/beckjimmy1005-beep/iptv/main/playlist.m3u
 ```
 
+**加速镜像（GitHub 直连慢时用）：**
+```
+https://gh-proxy.com/https://raw.githubusercontent.com/beckjimmy1005-beep/iptv/main/playlist.m3u
+```
+
+> 说明：Gitee 镜像已被平台合规系统拦截（raw 返回 451），不可用于订阅，请使用上述 GitHub 地址。
 > 若默认分支为 `master`，请将链接中的 `main` 改为 `master`。
 
 ## 内容说明
